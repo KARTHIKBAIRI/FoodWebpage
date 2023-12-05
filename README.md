@@ -1,7 +1,9 @@
 # FoodWebsite
 This is the food website of karthik.
 
-![image](https://github.com/KARTHIKBAIRI/FoodWebsite/assets/133215834/ede0ea6f-eeba-473d-a07c-be9d35632af4)
-![image](https://github.com/KARTHIKBAIRI/FoodWebsite/assets/133215834/791229e4-2208-4747-8088-870050c302a1)
-![image](https://github.com/KARTHIKBAIRI/FoodWebsite/assets/133215834/42deb0c3-cdec-4dc9-8aed-916abb6d7da7)
+![image](https://github.com/KARTHIKBAIRI/FoodWebsite/assets/133215834/2a25e84b-77b2-48dc-a31a-16b6cdbb8df8)
+![image](https://github.com/KARTHIKBAIRI/FoodWebsite/assets/133215834/386edea7-4edb-4335-a509-53d26901ceb9)
+![image](https://github.com/KARTHIKBAIRI/FoodWebsite/assets/133215834/1d510005-5527-48bf-acc9-8a4c4b25f738)
+
+
 
